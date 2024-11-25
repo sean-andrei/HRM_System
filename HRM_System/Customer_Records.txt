@@ -1,0 +1,8 @@
+Customer Name: Sean
+Contact Number: 1
+Reservation Date: 1
+Reservation Time: 1
+Number of Guests: 1
+Reserved Room: Standard Single Room (PHP 1000)
+----------------------------------------
+Customer: 1, Age: 1, Address: 1, Contact: 1, Room: Standard Single Room (PHP 1000)
